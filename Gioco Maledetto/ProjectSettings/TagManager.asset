@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -13,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player
+  - CameraCollider
   - 
   - 
   - 
@@ -40,4 +41,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4240947923
+    locked: 0
+  - name: CameraCollider
+    uniqueID: 306791725
+    locked: 0
+  - name: Player
+    uniqueID: 119877669
+    locked: 0
+  - name: Foreground
+    uniqueID: 533650103
     locked: 0
