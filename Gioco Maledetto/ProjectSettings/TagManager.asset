@@ -16,8 +16,8 @@ TagManager:
   - 
   - Player
   - CameraCollider
-  - 
-  - 
+  - Ladder
+  - Ground
   - 
   - 
   - 
@@ -47,6 +47,9 @@ TagManager:
     locked: 0
   - name: CameraCollider
     uniqueID: 306791725
+    locked: 0
+  - name: Climbing
+    uniqueID: 2169056635
     locked: 0
   - name: Player
     uniqueID: 119877669
