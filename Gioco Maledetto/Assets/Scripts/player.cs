@@ -47,9 +47,9 @@ public class player : MonoBehaviour
 
     private void Jump()
     {
-        if (!myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+       // if (!myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {
-            return;
+      //      return;
         }
 
         if (Input.GetButtonDown("Jump"))
