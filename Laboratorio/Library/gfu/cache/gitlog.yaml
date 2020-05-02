@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-04-16T19:40:58.452+02:00
+  initializedAtString: 2020-04-16T19:38:14.910+02:00
+  log:
+  - commitID: 8fd93418fb17f6d6b7abcddbb44c04e95618c1fd
+    mergeA: 
+    mergeB: 
+    authorName: Ficiop
+    authorEmail: filocapriotti@gmail.com
+    commitEmail: filocapriotti@gmail.com
+    commitName: Ficiop
+    summary: egfd
+    description: gfsdgs
+    timeString: 2020-04-16T19:09:41.000+02:00
+    commitTimeString: 2020-04-16T19:09:41.000+02:00
+    changes:
+    - path: Albero 1.jpg
+      fullPath: C:\Users\quali\OneDrive\Desktop\Shared Project\Project\Lovecraft\Albero
+        1.jpg
+      projectPath: ..\Albero 1.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 4db0a340df7c49efe1d7f2d50b93e64aaffadbe6
+    mergeA: 
+    mergeB: 
+    authorName: Ficiop
+    authorEmail: filocapriotti@gmail.com
+    commitEmail: filocapriotti@gmail.com
+    commitName: Ficiop
+    summary: Create Alberi.jpg
+    description: down
+    timeString: 2020-04-16T19:06:22.000+02:00
+    commitTimeString: 2020-04-16T19:06:22.000+02:00
+    changes:
+    - path: Alberi.jpg
+      fullPath: C:\Users\quali\OneDrive\Desktop\Shared Project\Project\Lovecraft\Alberi.jpg
+      projectPath: ..\Alberi.jpg
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 519041aa61d5162b59260a42eb6cd9fff47d926d
+    mergeA: 
+    mergeB: 
+    authorName: MelsTheMelee
+    authorEmail: 63665311+MelsTheMelee@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-04-14T19:41:06.000+02:00
+    commitTimeString: 2020-04-14T19:41:06.000+02:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\quali\OneDrive\Desktop\Shared Project\Project\Lovecraft\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
